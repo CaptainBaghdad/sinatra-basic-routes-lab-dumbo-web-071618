@@ -4,16 +4,16 @@ class App < Sinatra::Base
   
   
   get '/name' do 
-    puts "My nam is #_ _"
+    puts "My nam is"
   
   end 
   
   get '/hometown' do 
-    puts "My hometown is__"
+    puts "My hometown is"
   end 
   
   get '/favorite-song' do
-    puts "My favorite-song is__"
+    puts "My favorite-song is"
   
   end 
 
